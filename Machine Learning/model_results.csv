@@ -1,0 +1,2 @@
+numTrees,maxDepth,maxBins,minInstancesPerNode,RMSE,Features
+Not Set,Not Set,Not Set,Not Set,0.5133443318676517,"cost_12oz, aroma, acid, body, flavor, aftertaste, roaster_vec, origin_vec, roast_vec"

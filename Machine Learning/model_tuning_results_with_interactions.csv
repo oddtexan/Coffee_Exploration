@@ -1,0 +1,2 @@
+Interaction_Features_Used,numTrees,maxDepth,maxBins,minInstancesPerNode,RMSE
+Yes,20,5,32,1,0.37963322628434437
