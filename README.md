@@ -41,7 +41,9 @@ The final model allows users to input coffee details (cost, origin, roast level,
 
 ### - Dashboard/ Data Visualization:
 
-We imported the data into [TableauPublic](https://public.tableau.com/app/profile/julie.ramsey/viz/TheCoffeeProject_17300372249670/CoffeeExploration) and ensured that all value types were correct for accurate analysis. To enhance user interaction, we created parameters that allow users to display specific data. Using latitude and longitude values, we generated a map visualization. Additionally, we developed calculated fields to dynamically generate points on the map based on user selections. To improve the user experience, we adjusted tooltips, colors, and sizes for better clarity and presentation.
+We imported the data into [TableauPublic](https://public.tableau.com/app/profile/julie.ramsey/viz/TheCoffeeProject_17300372249670/CoffeeExploration) ensuring all value types were set correctly to support precise analysis. To enhance interactivity, we created custom parameters, enabling users to filter and explore specific data points. Using latitude and longitude values, we built an interactive map visualization. Calculated fields were also developed to dynamically display points on the map based on user selections. For an improved user experience, we customized tooltips, color schemes, and marker sizes to enhance clarity and visual appeal. Additionally, we used Seaborn and Matplotlib in Python for complementary visualizations, allowing us to explore and validate patterns revealed in Tableau.
+
+
 
 ### - Word Cloud:
 
